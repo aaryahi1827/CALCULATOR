@@ -1,0 +1,65 @@
+h2 {
+    font-size: 50px;
+    font-family: 'Times New Roman';
+    background-color: skyblue;
+    text-align: center;
+    justify-content: center;
+   
+}
+
+#number1 {
+    font-size: 30px;
+    text-align: center;
+    border-radius: 2cm;
+    border-color: black solid;
+    background-color: rgb(211, 242, 255);
+    border-width: 0.1cm;
+    margin: 0.5cm;
+}
+
+#number2 {
+    font-size: 30px;
+    text-align: center;
+    border-radius: 2cm;
+    border-color: black solid;
+    background-color: rgb(211, 242, 255);
+    border-width: 0.1cm;
+    margin: 0.5cm;
+}
+
+#operations{
+    font-size: 30px;
+    text-align: center;
+    border-radius: 2cm;
+   border-color: black solid;
+   background-color:  rgb(222, 238, 245)  ;
+   border-width: 0.1cm;
+   margin: 0.5cm;
+}
+
+
+#answer{
+    font-size: 30px;
+    text-align: center;
+    border-radius: 2cm;
+   border-color: black solid;
+   background-color:  rgb(222, 238, 245)  ;
+   border-width: 0.1cm;
+   margin: 0.5cm;
+  
+}
+
+button{
+    font-size: 30px;
+    text-align: center;
+    border-radius: 2cm;
+   border-color: black solid;
+   margin: 0.5cm;
+
+}
+
+body{
+    border: black solid 0.5cm;
+    background-color: rgb(193, 255, 255);
+
+} 
